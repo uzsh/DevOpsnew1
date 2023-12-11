@@ -1,3 +1,2 @@
-This is fix for bug1
+This is fix for bug1 suggested by manager
 
-modified in bug1 branch
